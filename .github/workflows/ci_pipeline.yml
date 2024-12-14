@@ -32,3 +32,4 @@ jobs:
     - name: Run Linting
       run: |
         pylint app.py
+
